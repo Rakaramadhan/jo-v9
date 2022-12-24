@@ -13,16 +13,16 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'hmzz botz'
+global.ownername = 'KhaTheInvisble'
 global.Anticall = false
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281356563739','6285298456576','6285298456576']
-global.premium = ['6285298456576']
-global.packname = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
-global.author = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
+global.owner = ['62882006212045','14233741054','12197977780']
+global.premium = ['62882006212045']
+global.packname = 'ItsMeRaka'
+global.author = 'KhaTheInvisble'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
